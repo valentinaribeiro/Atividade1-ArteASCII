@@ -1,0 +1,56 @@
+print ("Projeto 1: Arte em ASCII")
+
+print ("Desafio 1")
+print (" Olá, meu nome é Valentina Castro, tenho 24 anos e sou tecnóloga em Alimentos.  Pretedendo me dedicar e aprender cada dia mais sobre a área de progamação")
+
+print ("Desafio 2")
+print (''' Meu animal favorito é o gato:
+           .^----^.
+           | * . *|       /
+           \______/______/
+               |         |
+               |_________|
+                | |    | |      ''')
+
+print (''' Eu moro em Teresina, Piauí:
+
+        _|_
+       |   |
+       |#  |    
+       |   |____
+       | # |    |
+       |   | #  |
+       |___|____| ''')
+
+print ("Desafio: Palavras e números")
+print ("ha "*5)
+print ("G"+ "o"*7+ "l"*3+ "!"*10)
+print ("Bra"+ "sil "*4)
+
+print("Atividade Padrões em ASCII")
+print ("/\  "*10)
+print ("  \/"*10)
+
+
+print ("Desafio: Progame um dinossauro")
+
+print ("Parabéns"+"!"*6)
+print (''' Aqui está o dinossauro que você tanto queria
+                    __
+                   / _)
+                  / /
+           .-^^^-/ /
+       __ /       /
+      <___.|_|-|_|    ''')
+
+print (''' E aqui um bolo para animar sua festa
+
+      . . . . . . .
+      i i i i i i i
+      #############
+      =============
+      #############
+      ~~~~~~~~~~~~~
+      #############   ''')
+              
+
